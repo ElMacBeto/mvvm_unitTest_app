@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "1096028603631",
+    "project_id": "humbjorch",
+    "storage_bucket": "humbjorch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096028603631:android:04b8dd2a324e17b02d871a",
+        "android_client_info": {
+          "package_name": "com.elmacbeto.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096028603631-5afu4boe7v78ijm6j3mnjllo7sgfmr03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elmacbeto.myapplication",
+            "certificate_hash": "e66e954909139f6ee7815e03179d9ef94ea02e16"
+          }
+        },
+        {
+          "client_id": "1096028603631-uvsj03mn7v1uc8si078h8u0fag6v94gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTpg5wfJSKgLiT_TlWH7a4BA8e-OsM_nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096028603631-uvsj03mn7v1uc8si078h8u0fag6v94gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096028603631:android:4f8f5ac364de8f0f2d871a",
+        "android_client_info": {
+          "package_name": "com.humbjorch.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096028603631-9thun73cuen117d53nr2mrs9njmro4o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humbjorch.myapplication",
+            "certificate_hash": "e66e954909139f6ee7815e03179d9ef94ea02e16"
+          }
+        },
+        {
+          "client_id": "1096028603631-lqtprkgtg73i7cttemdbmrc3ar5q1trg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humbjorch.myapplication",
+            "certificate_hash": "325d135e6dbc75357c31db447f4f7dbcf9b34490"
+          }
+        },
+        {
+          "client_id": "1096028603631-qfp6067uk4kobupcsvllumejpgbi1ro7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humbjorch.myapplication",
+            "certificate_hash": "35abede25accfcf50311c360497bbfb646d60c4e"
+          }
+        },
+        {
+          "client_id": "1096028603631-uvsj03mn7v1uc8si078h8u0fag6v94gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTpg5wfJSKgLiT_TlWH7a4BA8e-OsM_nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096028603631-uvsj03mn7v1uc8si078h8u0fag6v94gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

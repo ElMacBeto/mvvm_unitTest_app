@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="default_web_client_id">1096028603631-uvsj03mn7v1uc8si078h8u0fag6v94gs.apps.googleusercontent.com</string>
+
+
+    <string name="share_preferences_email">AUTHENTICATION_PREFERENCES_EMAIL</string>
+    <string name="share_preferences_photo_url">AUTHENTICATION_PREFERENCES_PHOTO_URL</string>
+    <string name="share_preferences_session">SHARE_PREFERENCES_SESSION</string>
+    <string name="share_preferences_touch_id_session">AUTHENTICATION_PREFERENCES_TOUCH_ID_SESSION</string>
+    <string name="share_preferences_google_session">AUTHENTICATION_PREFERENCES_GOOGLE_SESSION</string>
+    <string name="share_preferences_latitude">SHARE_PREFERENCES_LATITUDE</string>
+    <string name="share_preferences_longitude">SHARE_PREFERENCES_LONGITUDE</string>
+    <string name="share_preferences_login_state">SHARE_PREFERENCES_LOGIN_STATE</string>
+
+    <string name="label_success">Success</string>
+    <string name="label_error">Error</string>
+    <string name="label_information">Information</string>
+    <string name="label_warning">Warning</string>
+
+    <string name="dialog_confirm">Accept</string>
+    <string name="cancel_dialog">Cancel</string>
+
+    <string name="not_conection">You don\'t have access to a stable network</string>
+    <string name="dialog_error">Warning!!</string>
+
+    <string name="error_name">invalid name</string>
+    <string name="error_email">invalid email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="email_label">Email</string>
+    <string name="pass_label">Password</string>
+    <string name="sing_in">Sing In</string>
+    <string name="log_in">Log In</string>
+    <string name="or_sign_up_with">Or sign up with Google</string>
+    <string name="label_photo">- Photo -</string>
+    <string name="label_user_name">User name</string>
+    <string name="label_register">Register</string>
+    <string name="label_fingerprint_login">login with Touch ID</string>
+    <string name="label_password">Password</string>
+    <string name="label_email">Email</string>
+
+    <!-- login labels -->
+    <string name="label_login_with_google">Login with Google</string>
+    <string name="tv_google_description">Welcome! Sign in with Google for a personalized and secure experience on our mobile app.</string>
+    <string name="todo">todo</string>
+    <string name="label_google_session">Continue</string>
+    <string name="label_login_with_touch_id">Login with Touch ID</string>
+    <string name="tv_login_touch_id_description">Use your Touch ID for faster, easier access \nto your account</string>
+    <string name="label_use_touch_id">Use Touch ID</string>
+    <string name="label_login_with_email"><u>Login with Email</u></string>
+    <string name="label_login_with_email_password">Login with Password</string>
+    <string name="tv_login_touch_id_description_email">Use your Password for faster, easier access \nto your account</string>
+
+</resources>

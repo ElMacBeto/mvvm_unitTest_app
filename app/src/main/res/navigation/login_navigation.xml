@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_navigation"
+    app:startDestination="@id/logoutFragment">
+
+    <fragment
+        android:id="@+id/logoutFragment"
+        android:name="com.elmacbeto.myapplication.ui.login.logout.LogoutFragment"
+        android:label="fragment_logout"
+        tools:layout="@layout/fragment_logout" />
+    <fragment
+        android:id="@+id/loginWithGoogleFragment"
+        android:name="com.elmacbeto.myapplication.ui.login.loginWithGoogle.LoginWithGoogleFragment"
+        android:label="fragment_login_with_google"
+        tools:layout="@layout/fragment_login_with_google" />
+    <fragment
+        android:id="@+id/loginWithFingerPrintFragment"
+        android:name="com.elmacbeto.myapplication.ui.login.loginWithFingerprint.LoginWithFingerPrintFragment"
+        android:label="fragment_login_with_finger_print"
+        tools:layout="@layout/fragment_login_with_finger_print" />
+    <fragment
+        android:id="@+id/loginWithPasswordFragment"
+        android:name="com.elmacbeto.myapplication.ui.login.loginWithPassword.LoginWithPasswordFragment"
+        android:label="fragment_login_with_password"
+        tools:layout="@layout/fragment_login_with_password" />
+</navigation>
